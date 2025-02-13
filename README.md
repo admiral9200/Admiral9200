@@ -5,7 +5,6 @@ A Startup / Scale up Lead Engineer with Product Management and Business experien
 ---
 
 ### 🔭 I’m currently working on:
-- **REAMS ELIAS Project**: Enhancing asset management using a NestJS backend.
 - **Chargeback Alert System**: Developing a robust system with Ethoca integration, expanding to include Stripe, Shopify, and more.
 - **Kaspa Token Project**: Building solutions around blockchain technology using NestJS.
 
