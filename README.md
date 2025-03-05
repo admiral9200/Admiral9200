@@ -26,7 +26,6 @@ A Startup / Scale up Lead Engineer with Product Management and Business experien
 
 ### 📫 How to reach me:
 - **Email**: lion9200.world@gmail.com
-- **WhatsApp**: +639397042449
 
 ---
 
