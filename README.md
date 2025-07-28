@@ -73,12 +73,6 @@ I am actively looking to collaborate on:
 
 ---
 
-## 📬 **Connect With Me**
-
-📧 **Email**: lion9200.world@gmail.com  
-
----
-
 ## 😄 **Fun Fact**
 
 When I’m not coding, I share **spine-chilling stories** on my YouTube channel, blending **storytelling and technology** in [Shadow Secrets](https://www.youtube.com/shadowsecrets).
